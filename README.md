@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chetandev16
-- 👀 I’m interested in TECHNOLOGY :D
+- 👀 I’m interested in TECH :D
 - 🌱 I’m currently learning ML using PYTHON....AND WEB DEVELOPMENT 
 - 
 <!---
