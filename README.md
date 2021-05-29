@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetandev16](https://github.com/Chetandev16)
 
-- 📫 How to reach me **chetanpathak45@gmail.com**
+- 📫 How to reach me **contact.chetandev16@gmail.com**
 
 - 📄 Know about my experiences [<soon>](<soon>)
 
