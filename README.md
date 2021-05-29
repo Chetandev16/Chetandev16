@@ -14,6 +14,9 @@
 - 📄 Know about my experiences [<soon>](<soon>)
 
 - ⚡ Fun fact **I love to play games :D**
+  
+  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
