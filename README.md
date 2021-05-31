@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chetandev_16" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="chetandev_16" height="20" width="20" />chetandev_16</a> <br>
-<a href="https://instagram.com/chetan._pathak" target="blank"><img align="center" src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" alt="chetan._pathak" height="20" width="20" />chetah._pathak</a>
+<a href="https://twitter.com/chetandev_16" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="chetandev_16" height="20" width="20" />chetandev_16</a> <br>
+<a href="https://instagram.com/chetan._pathak" target="_blank"><img align="center" src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" alt="chetan._pathak" height="20" width="20" />chetah._pathak</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
