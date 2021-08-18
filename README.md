@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetandev16&label=Profile%20views&color=0e75b6&style=flat" alt="chetandev16" /> </p>
 
-- 🔭 I’m currently working on **Flutter Dev** [https://chetanworks.me)
+- 🔭 I’m currently working on **Flutter Dev** 
 
 - 🌱 I’m currently learning **C++** 
 
