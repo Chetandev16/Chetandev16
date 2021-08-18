@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetandev16&label=Profile%20views&color=0e75b6&style=flat" alt="chetandev16" /> </p>
 
+- 🔭 I’m currently working on **Flutter Dev** [https://chetanworks.me)
 
-- 🔭 I’m currently working on **front-end development** [https://chetanworks.me](https://chetanworks.me)
-
-- 🌱 I’m currently learning **Machine learning using python** 
+- 🌱 I’m currently learning **C++** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetandev16](https://github.com/Chetandev16)             
 
