@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with **dart**
+- 🤝 I’m looking for help with **react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetandev16](https://github.com/Chetandev16)
 
