@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetandev16&label=Profile%20views&color=0e75b6&style=flat" alt="chetandev16" /> </p>
 
-- 🔭 I’m currently learning **DSA**
+- 🔭 I’m currently working as **Software FrontEnd Engineer**
 
-- 🤝 I’m looking for help with **react**
+- 🤝 I’m looking for help with **Backend Tech Stack**
 
 - 🔭 My Website - https://chetandev16.netlify.app
 
